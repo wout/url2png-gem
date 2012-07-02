@@ -1,4 +1,1 @@
-url2png-gem
-===========
-
-url2png-gem
+this repo moved to https://github.com/robinhoudmeyers/url2png-gem
